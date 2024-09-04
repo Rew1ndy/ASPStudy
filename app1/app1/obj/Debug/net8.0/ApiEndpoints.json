@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "CompanyApp.Controllers.HomeController",
+    "Method": "GetCompanyInfo",
+    "RelativePath": "Home/CompanyInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanyApp.Controllers.HomeController",
+    "Method": "GetRandomNumber",
+    "RelativePath": "Home/RandomNumber",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
