@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogdi\\source\\repos\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\views\\home\\myinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\home\\myinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\myinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\myinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\services\\myinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\services\\myinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|c:\\users\\bogdi\\source\\repos\\lab2\\lab2\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7DE0BF80-EB6D-4822-A1B9-8C8B44640F80}|Lab2\\Lab2.csproj|solutionrelative:lab2\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Services\\MyInfoService.cs",
+              "RelativeDocumentMoniker": "Lab2\\Services\\MyInfoService.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Services\\MyInfoService.cs",
+              "RelativeToolTip": "Lab2\\Services\\MyInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:56:42.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:39:45.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "myinfo.json",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\myinfo.json",
+              "RelativeDocumentMoniker": "Lab2\\myinfo.json",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\myinfo.json",
+              "RelativeToolTip": "Lab2\\myinfo.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T10:34:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Views\\Home\\MyInfo.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Home\\MyInfo.cshtml",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Views\\Home\\MyInfo.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Home\\MyInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T10:33:33.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T10:33:14.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Startup.cs",
+              "RelativeDocumentMoniker": "Lab2\\Startup.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Startup.cs",
+              "RelativeToolTip": "Lab2\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:33:47.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Lab2\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Services\\CompanyService.cs",
+              "RelativeToolTip": "Lab2\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:37:09.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:29:38.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "config.ini",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\config.ini",
+              "RelativeDocumentMoniker": "Lab2\\config.ini",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\config.ini",
+              "RelativeToolTip": "Lab2\\config.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-09-11T10:24:04.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "config.xml",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\config.xml",
+              "RelativeDocumentMoniker": "Lab2\\config.xml",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\config.xml",
+              "RelativeToolTip": "Lab2\\config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-11T10:23:54.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\config.json",
+              "RelativeDocumentMoniker": "Lab2\\config.json",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab2\\Lab2\\config.json",
+              "RelativeToolTip": "Lab2\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T10:23:42.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
