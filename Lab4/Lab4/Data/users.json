@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "The Current",
+    "email": "admin@mail.com"
+  },
+  {
+    "id": 1,
+    "name": "Mario",
+    "email": "mario@mail.com"
+  },
+  {
+    "id": 2,
+    "name": "Alice",
+    "email": "alice@mail.com"
+  },
+  {
+    "id": 3,
+    "name": "Robin",
+    "email": "robin@mail.com"
+  },
+  {
+    "id": 4,
+    "name": "Charlie",
+    "email": "charlie@mail.com"
+  },
+  {
+    "id": 5,
+    "name": "Eve",
+    "email": "eve@mail.com"
+  }
+]
