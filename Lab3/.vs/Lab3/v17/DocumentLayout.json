@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogdi\\source\\repos\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|c:\\users\\bogdi\\source\\repos\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|c:\\users\\bogdi\\source\\repos\\lab3\\lab3\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|solutionrelative:lab3\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|c:\\users\\bogdi\\source\\repos\\lab3\\lab3\\controllers\\timecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|solutionrelative:lab3\\controllers\\timecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|c:\\users\\bogdi\\source\\repos\\lab3\\lab3\\services\\timeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|solutionrelative:lab3\\services\\timeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|c:\\users\\bogdi\\source\\repos\\lab3\\lab3\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|solutionrelative:lab3\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|c:\\users\\bogdi\\source\\repos\\lab3\\lab3\\services\\calcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84DAF6-62D4-4BED-85B1-28450FE1A3B9}|Lab3\\Lab3.csproj|solutionrelative:lab3\\services\\calcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeController.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Controllers\\TimeController.cs",
+              "RelativeDocumentMoniker": "Lab3\\Controllers\\TimeController.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Controllers\\TimeController.cs",
+              "RelativeToolTip": "Lab3\\Controllers\\TimeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:39:34.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalcController.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Controllers\\CalcController.cs",
+              "RelativeDocumentMoniker": "Lab3\\Controllers\\CalcController.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Controllers\\CalcController.cs",
+              "RelativeToolTip": "Lab3\\Controllers\\CalcController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:17:32.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeService.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Services\\TimeService.cs",
+              "RelativeDocumentMoniker": "Lab3\\Services\\TimeService.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Services\\TimeService.cs",
+              "RelativeToolTip": "Lab3\\Services\\TimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:30:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Startup.cs",
+              "RelativeDocumentMoniker": "Lab3\\Startup.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Startup.cs",
+              "RelativeToolTip": "Lab3\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:28:37.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalcService.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Services\\CalcService.cs",
+              "RelativeDocumentMoniker": "Lab3\\Services\\CalcService.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Services\\CalcService.cs",
+              "RelativeToolTip": "Lab3\\Services\\CalcService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:13:00.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\bogdi\\source\\repos\\Lab3\\Lab3\\Program.cs",
+              "RelativeToolTip": "Lab3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:09:58.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
