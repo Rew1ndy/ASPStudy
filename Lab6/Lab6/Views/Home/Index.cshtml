@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-action="Register" method="post">
+    <label for="Name">Name:</label>
+    <input type="text" id="Name" name="Name" required />
+    <label for="Age">Age:</label>
+    <input type="number" id="Age" name="Age" required />
+    <button type="submit">Register</button>
+</form>

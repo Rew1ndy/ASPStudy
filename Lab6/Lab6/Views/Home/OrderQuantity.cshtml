@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Order prize";
+
+}
+
+<form asp-action="OrderQuantity" method="post">
+    <label for="Quantity">How many products do you want to order?</label>
+    <input type="number" id="Quantity" name="quantity" min="0" required />
+    <button type="submit">Confirm</button>
+</form>
+
