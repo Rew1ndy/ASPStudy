@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|c:\\users\\rew1nd\\source\\repos\\lab9\\lab9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|solutionrelative:lab9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|c:\\users\\rew1nd\\source\\repos\\lab9\\lab9\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|solutionrelative:lab9\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|c:\\users\\rew1nd\\source\\repos\\lab9\\lab9\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|solutionrelative:lab9\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|c:\\users\\rew1nd\\source\\repos\\lab9\\lab9\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|solutionrelative:lab9\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|c:\\users\\rew1nd\\source\\repos\\lab9\\lab9\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|solutionrelative:lab9\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|c:\\users\\rew1nd\\source\\repos\\lab9\\lab9\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|solutionrelative:lab9\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|c:\\users\\rew1nd\\source\\repos\\lab9\\lab9\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|solutionrelative:lab9\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|c:\\users\\rew1nd\\source\\repos\\lab9\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8342189-53F5-445D-B5DA-59CB41F2FDC5}|Lab9\\Lab9.csproj|solutionrelative:lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T12:38:15.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab9\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Lab9\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T12:37:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab9\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lab9\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:32:33.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab9\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Models\\Product.cs",
+              "RelativeToolTip": "Lab9\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:32:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab9\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "Lab9\\Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T12:31:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Lab9\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Lab9\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:25:01.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Lab9\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Lab9\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:23:33.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Program.cs",
+              "RelativeDocumentMoniker": "Lab9\\Program.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab9\\Lab9\\Program.cs",
+              "RelativeToolTip": "Lab9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:22:34.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
