@@ -1,0 +1,35 @@
+﻿@model ConsultationRequest
+
+@{
+    ViewData["Title"] = "Consultation request";
+}
+
+
+<form asp-action="Register" method="post">
+    <div>
+        <label for="FullName">Ім'я та прізвище</label>
+        <input asp-for="FullName" />
+        <span asp-validation-for="FullName"></span>
+    </div>
+    <div>
+        <label for="Email">Email</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label for="DesiredDate">Бажана дата</label>
+        <input asp-for="DesiredDate" type="date" />
+        <span asp-validation-for="DesiredDate"></span>
+    </div>
+    <div>
+        <label for="Product">Продукт</label>
+        <select asp-for="Product" asp-items="ViewBag.Products"></select>
+        <span asp-validation-for="Product"></span>
+    </div>
+    <button type="submit">Зареєструватися</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
