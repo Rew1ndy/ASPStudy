@@ -1,0 +1,15 @@
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:39:35
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:40:06
+Action: Lab11.Controllers.HomeController.Privacy (Lab11), Time: 2024-10-20 09:40:08
+Action: Lab11.Controllers.HomeController.Privacy (Lab11), Time: 2024-10-20 09:40:10
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:40:10
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:42:54
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:42:57
+Action: Lab11.Controllers.HomeController.Privacy (Lab11), Time: 2024-10-20 09:42:57
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:43:46
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:43:48
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:43:51
+Action: Lab11.Controllers.HomeController.Privacy (Lab11), Time: 2024-10-20 09:43:51
+Action: Lab11.Controllers.HomeController.Privacy (Lab11), Time: 2024-10-20 09:43:52
+Action: Lab11.Controllers.HomeController.Privacy (Lab11), Time: 2024-10-20 09:43:52
+Action: Lab11.Controllers.HomeController.Index (Lab11), Time: 2024-10-20 09:47:34
