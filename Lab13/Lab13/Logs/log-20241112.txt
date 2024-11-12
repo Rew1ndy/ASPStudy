@@ -1,0 +1,42 @@
+2024-11-12 13:46:53.829 +02:00 [INF] User on home page.
+2024-11-12 13:47:34.323 +02:00 [INF] User on home page.
+2024-11-12 13:48:35.622 +02:00 [INF] User on home page.
+2024-11-12 13:48:47.317 +02:00 [INF] User on home page.
+2024-11-12 13:50:02.538 +02:00 [INF] User on home page.
+2024-11-12 13:50:11.280 +02:00 [INF] User on home page.
+2024-11-12 13:50:18.185 +02:00 [ERR] We have error in error
+System.Exception: Some unexpected error.
+   at Lab13.Controllers.HomeController.Error() in C:\Users\Rew1nd\source\repos\Lab13\Lab13\Controllers\HomeController.cs:line 20
+2024-11-12 13:50:37.304 +02:00 [INF] User on home page.
+2024-11-12 13:50:41.901 +02:00 [DBG] Log of Debug level.
+2024-11-12 13:50:41.903 +02:00 [INF] Information log.
+2024-11-12 13:50:41.903 +02:00 [WRN] Warning log.
+2024-11-12 13:50:41.904 +02:00 [ERR] Error log.
+2024-11-12 13:50:41.905 +02:00 [FTL] Fatal error log.
+2024-11-12 13:59:02.533 +02:00 [INF] User on home page.
+2024-11-12 13:59:07.160 +02:00 [DBG] Log of Debug level.
+2024-11-12 13:59:07.161 +02:00 [INF] Information log.
+2024-11-12 13:59:07.162 +02:00 [WRN] Warning log.
+2024-11-12 13:59:07.163 +02:00 [ERR] Error log.
+2024-11-12 13:59:07.163 +02:00 [FTL] Fatal error log.
+2024-11-12 13:59:21.621 +02:00 [INF] User on home page.
+2024-11-12 13:59:26.003 +02:00 [ERR] We have error in error
+System.Exception: Some unexpected error.
+   at Lab13.Controllers.HomeController.Error() in C:\Users\Rew1nd\source\repos\Lab13\Lab13\Controllers\HomeController.cs:line 20
+2024-11-12 14:03:00.111 +02:00 [INF] User on home page.
+2024-11-12 14:18:30.992 +02:00 [INF] User on home page.
+2024-11-12 14:18:43.323 +02:00 [DBG] Log of Debug level.
+2024-11-12 14:18:43.324 +02:00 [INF] Information log.
+2024-11-12 14:18:43.324 +02:00 [WRN] Warning log.
+2024-11-12 14:18:43.325 +02:00 [ERR] Error log.
+2024-11-12 14:18:43.347 +02:00 [FTL] Fatal error log.
+2024-11-12 14:20:00.052 +02:00 [INF] User on home page.
+2024-11-12 14:20:07.987 +02:00 [ERR] We have error in error
+System.Exception: Some unexpected error.
+   at Lab13.Controllers.HomeController.Error() in C:\Users\Rew1nd\source\repos\Lab13\Lab13\Controllers\HomeController.cs:line 22
+2024-11-12 14:23:15.291 +02:00 [INF] User on home page.
+2024-11-12 14:23:29.975 +02:00 [DBG] Log of Debug level.
+2024-11-12 14:23:29.976 +02:00 [INF] Information log.
+2024-11-12 14:23:29.977 +02:00 [WRN] Warning log.
+2024-11-12 14:23:29.977 +02:00 [ERR] Error log.
+2024-11-12 14:23:29.988 +02:00 [FTL] Fatal error log.

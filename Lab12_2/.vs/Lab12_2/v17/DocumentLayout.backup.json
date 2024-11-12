@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37FBC38C-0DCD-4BC0-89EF-320C6286A3AD}|Lab12_2\\Lab12_2.csproj|d:\\-=university=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\asp\\lab12_asp_shmalko\\lab12_2\\lab12_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FBC38C-0DCD-4BC0-89EF-320C6286A3AD}|Lab12_2\\Lab12_2.csproj|solutionrelative:lab12_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FBC38C-0DCD-4BC0-89EF-320C6286A3AD}|Lab12_2\\Lab12_2.csproj|d:\\-=university=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\asp\\lab12_asp_shmalko\\lab12_2\\lab12_2\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FBC38C-0DCD-4BC0-89EF-320C6286A3AD}|Lab12_2\\Lab12_2.csproj|solutionrelative:lab12_2\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FBC38C-0DCD-4BC0-89EF-320C6286A3AD}|Lab12_2\\Lab12_2.csproj|d:\\-=university=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\asp\\lab12_asp_shmalko\\lab12_2\\lab12_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37FBC38C-0DCD-4BC0-89EF-320C6286A3AD}|Lab12_2\\Lab12_2.csproj|solutionrelative:lab12_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FBC38C-0DCD-4BC0-89EF-320C6286A3AD}|Lab12_2\\Lab12_2.csproj|d:\\-=university=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\asp\\lab12_asp_shmalko\\lab12_2\\lab12_2\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FBC38C-0DCD-4BC0-89EF-320C6286A3AD}|Lab12_2\\Lab12_2.csproj|solutionrelative:lab12_2\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\Lab12_2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab12_2\\Program.cs",
+              "ToolTip": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\Lab12_2\\Program.cs",
+              "RelativeToolTip": "Lab12_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:34:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\Lab12_2\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab12_2\\appsettings.json",
+              "ToolTip": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\Lab12_2\\appsettings.json",
+              "RelativeToolTip": "Lab12_2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T11:34:00.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\Lab12_2\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Lab12_2\\Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\Lab12_2\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Lab12_2\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:33:38.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\Lab12_2\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Lab12_2\\Models\\Company.cs",
+              "ToolTip": "D:\\-=University=-\\3 \u043A\u0443\u0440\u0441\\3 \u043A\u0443\u0440\u0441_1\\ASP\\Lab12_ASP_Shmalko\\Lab12_2\\Lab12_2\\Models\\Company.cs",
+              "RelativeToolTip": "Lab12_2\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:31:49.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
