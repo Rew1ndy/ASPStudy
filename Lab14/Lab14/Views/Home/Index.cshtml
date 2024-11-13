@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Поточна погода";
+}
+
+<h2>Погода в @ViewBag.Region</h2>
+<p>@ViewBag.WeatherInfo</p>
+
+<form method="get" action="/Home/Index">
+    <label for="region">Введіть регіон:</label>
+    <input type="text" id="region" name="region" />
+    <button type="submit">Отримати погоду</button>
+</form>
