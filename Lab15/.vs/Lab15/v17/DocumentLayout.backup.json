@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\views\\home\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\views\\home\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\websitecheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\websitecheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\weatherbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\weatherbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\quartzhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\quartzhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\emailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\emailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\controllers\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\controllers\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|c:\\users\\rew1nd\\source\\repos\\lab15\\lab15\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8CAABE-CDD6-4AC7-9949-831BCF539433}|Lab15\\Lab15.csproj|solutionrelative:lab15\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Lab15\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Lab15\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:08:02.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab15\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab15\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:07:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebsiteCheckerService.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\WebsiteCheckerService.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\WebsiteCheckerService.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\WebsiteCheckerService.cs",
+              "RelativeToolTip": "Lab15\\Services\\WebsiteCheckerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:00:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\Record.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\Record.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\Record.cs",
+              "RelativeToolTip": "Lab15\\Services\\Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:59:39.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuartzHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\QuartzHostedService.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\QuartzHostedService.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\QuartzHostedService.cs",
+              "RelativeToolTip": "Lab15\\Services\\QuartzHostedService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:59:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\EmailService.cs",
+              "RelativeToolTip": "Lab15\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:59:23.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\AppDbContext.cs",
+              "RelativeToolTip": "Lab15\\Services\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:59:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Lab15\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:50:00.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\EmailNotificationService.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\EmailNotificationService.cs",
+              "RelativeToolTip": "Lab15\\Services\\EmailNotificationService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:33:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Program.cs",
+              "RelativeDocumentMoniker": "Lab15\\Program.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Program.cs",
+              "RelativeToolTip": "Lab15\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:10:12.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Lab15\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:17:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Views\\Home\\notification.cshtml",
+              "RelativeDocumentMoniker": "Lab15\\Views\\Home\\notification.cshtml",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Views\\Home\\notification.cshtml",
+              "RelativeToolTip": "Lab15\\Views\\Home\\notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T14:20:50.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Lab15\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Lab15\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:56:04.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailJob.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\EmailJob.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\EmailJob.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\EmailJob.cs",
+              "RelativeToolTip": "Lab15\\Services\\EmailJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:02:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageHub.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Controllers\\MessageHub.cs",
+              "RelativeDocumentMoniker": "Lab15\\Controllers\\MessageHub.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Controllers\\MessageHub.cs",
+              "RelativeToolTip": "Lab15\\Controllers\\MessageHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:18:12.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\WeatherBackgroundService.cs",
+              "RelativeDocumentMoniker": "Lab15\\Services\\WeatherBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Services\\WeatherBackgroundService.cs",
+              "RelativeToolTip": "Lab15\\Services\\WeatherBackgroundService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:54:44.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab15\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rew1nd\\source\\repos\\Lab15\\Lab15\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab15\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:55:37.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
